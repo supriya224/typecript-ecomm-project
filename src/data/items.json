@@ -1,0 +1,70 @@
+[
+{
+    "id":1,
+    "name":"Motivation",
+    "price":200,
+    "image":"https://i.pinimg.com/736x/1a/8f/48/1a8f4800249c8984c60c2d31834bcf73.jpg"
+},
+
+{   
+    "id":2,
+    "name":"Motivation",
+    "price":1000,
+    "image":"https://www.shutterstock.com/image-vector/cover-book-motivational-diary-presentation-260nw-520832638.jpg"
+},
+{
+    "id":3,
+    "name":"Motivation book",
+    "price":700,
+    "image":"https://images.smiletemplates.com/uploads/screenshots/10/0000010250/brochure-templates-b.jpg"
+},
+{
+    "id":4,
+    "name":"Motivation book",
+    "price":900,
+    "image":"https://images.smiletemplates.com/uploads/screenshots/0/0000000661/brochure-templates-b.jpg"
+},
+{
+    "id":5,
+    "name":"Motivation book",
+    "price":600,
+    "image":"https://images.smiletemplates.com/uploads/screenshots/9/0000009089/brochure-templates-b.jpg"
+},{
+    "id":6,
+    "name":"Motivation",
+    "price":300,
+    "image":"https://images.smiletemplates.com/uploads/screenshots/10/0000010110/brochure-templates-b.jpg"
+},
+{
+    "id":7,
+    "name":"Motivation book",
+    "price":900,
+    "image":"https://rukminim1.flixcart.com/image/850/1000/l5h2xe80/book/j/c/t/best-motivational-books-in-english-ikigai-the-power-of-positive-original-imagg4vp75ykq5km.jpeg?q=90"
+},
+{
+    "id":8,
+    "name":"Motivation",
+    "price":300,
+    "image":"https://i.ytimg.com/vi/mO7mJwomxfc/maxresdefault.jpg"
+},{
+    "id":9,
+    "name":"Motivation",
+    "price":300,
+    "image":"https://www.verywellfamily.com/thmb/SgoSFdxwLpyI0ABk5psB3Eb0yAw=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/top-must-have-self-help-books-for-your-teenage-girl-2611380-5a07a77d9e054fc0ab23f9e1668559fc.jpg"
+},{
+    "id":10,
+    "name":"Motivation",
+    "price":300,
+    "image":"https://www.verywellfamily.com/thmb/bdWrjWrRgkoEpYzMTC6JrTzu_28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8-best-inspirational-books-for-teens-3d83f263d9624732a1cb4962ac29d053.jpg"
+},{
+    "id":11,
+    "name":"Motivation",
+    "price":300,
+    "image":"https://media.licdn.com/dms/image/C5612AQFUBcGt0J67gw/article-cover_image-shrink_600_2000/0/1630943363442?e=2147483647&v=beta&t=lRFrNmL5uFHy1AGKjSnbkkZMmGWFOAcch6G8zZiGREc"
+},{
+    "id":12,
+    "name":"Motivation",
+    "price":300,
+    "image":"https://m.media-amazon.com/images/I/81Rf2RGvR-L._AC_UF1000,1000_QL80_.jpg"
+}
+]
